@@ -25,7 +25,5 @@ This is a simple **Node.js command-line application** that takes a URL from the 
 - npm install
 - node index.js
 - Type Your URL: https://www.google.com
-- 
 - After entering the URL, a QR code image named qr.png will be generated in the project folder.
-```bash
-git clone <your-repo-url>
+
